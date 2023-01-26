@@ -1,0 +1,11 @@
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.csproj.AssemblyReference.cache
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.csproj.SuggestedBindingRedirects.cache
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.Form1.resources
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.Properties.Resources.resources
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.csproj.GenerateResource.cache
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.csproj.CoreCompileInputs.cache
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\bin\Debug\MultiThreaded.exe.config
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\bin\Debug\MultiThreaded.exe
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\bin\Debug\MultiThreaded.pdb
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.exe
+C:\Users\yxz15\Desktop\Assignment4\MultiThreaded\obj\Debug\MultiThreaded.pdb

@@ -1,0 +1,10 @@
+0	Aaaaaaaaaa1	Bbbbbbbbbb	F	1234 Main St.		TX	Dallas	75001	F	2145550001	abc@utdallas.edu	NO	2/28/2022	20:29:47	20:30:48	10
+1	Aaaaaaaaaa2	Bbbbbbbbbb	F	1234 Main St.		TX	Dallas	75001	F	2145550002	abc@utdallas.edu	NO	2/28/2022	20:32:46	20:33:31	10
+2	Aaaaaaaaaa3	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	2145550003	abc@utdallas.edu	YES	2/28/2022	20:34:34	20:35:12	3
+3	Aaaaaaaaaa4	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	2145550004	abc@utdallas.edu	YES	2/28/2022	20:35:22	20:35:59	3
+4	Aaaaaaaaaa5	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	2145550005	abc@utdallas.edu	YES	2/28/2022	20:36:06	20:36:38	3
+5	Aaaaaaaaaa6	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	F	2145550006	abc@utdallas.edu	YES	2/28/2022	20:36:47	20:37:23	15
+6	Aaaaaaaaaa7	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	2145550007	abc@utdallas.edu	YES	2/28/2022	20:37:29	20:38:03	5
+7	Aaaaaaaaaa8	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	F	2145550008	abc@utdallas.edu	YES	2/28/2022	20:38:07	20:38:39	2
+8	Aaaaaaaaaa9	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	2145550009	abc@utdallas.edu	YES	2/28/2022	20:38:43	20:39:17	3
+9	Aaaaaaaaaa10	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	F	21455500010	abc@utdallas.edu	YES	2/28/2022	20:39:21	20:39:55	3

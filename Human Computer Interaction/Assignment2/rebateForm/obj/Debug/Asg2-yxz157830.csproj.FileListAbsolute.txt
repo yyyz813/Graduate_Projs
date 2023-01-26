@@ -1,0 +1,10 @@
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\Asg2-yxz157830.csproj.AssemblyReference.cache
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\Asg2_yxz157830.Form1.resources
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\rebateForm.Properties.Resources.resources
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\Asg2-yxz157830.csproj.GenerateResource.cache
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\Asg2-yxz157830.csproj.CoreCompileInputs.cache
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\rebateForm.exe
+C:\Users\yxz15\Desktop\c#form\rebateForm\obj\Debug\rebateForm.pdb
+C:\Users\yxz15\Desktop\c#form\rebateForm\bin\Debug\rebateForm.exe.config
+C:\Users\yxz15\Desktop\c#form\rebateForm\bin\Debug\rebateForm.exe
+C:\Users\yxz15\Desktop\c#form\rebateForm\bin\Debug\rebateForm.pdb
